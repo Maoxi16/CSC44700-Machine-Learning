@@ -1,1 +1,1 @@
-# CSC44700-Machine-Learning
+# CSC44700-Machine-Learning(CCNY)
